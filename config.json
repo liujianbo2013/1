@@ -1,9 +1,9 @@
 {
-    "title":"page",
+    "title":"名称",
     "avatarUrl":"https://www.helloimg.com/i/2024/12/28/676fb4f4d3544.jpg",
     "GMEEK_VERSION":"last",
-    "displayTitle":"my name",
-    "homeUrl":"https://8356357769.github.io/",
+    "displayTitle":"姓名",
+    "homeUrl":"https://xxx.gi8356357769thub.io/",
     "subTitle":"简介",
     "onePageListNum":15,
     "i18n":"CN",
@@ -17,7 +17,7 @@
     "urlMode":"issue",
     "showPostSource":0,
     "needComment":0,
-    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
-    "script":"<script src='https://8356357769.github.io/plugins/ArticleTOC.js'></script><script src='https://blog.freeblock.cn/plugins/lightbox.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
-    "allHead":"<script src='https://8356357769.github.io/plugins/RonanTheme.js'></script>"
+    "bottomText":"底部文字",
+    "script":"<script src='https://xxx.github.io/plugins/ArticleTOC.js'></script><script src='https://blog.freeblock.cn/plugins/lightbox.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
+    "allHead":"<script src='https://xxx.github.io/plugins/RonanTheme.js'></script>"
 }
